@@ -8,5 +8,6 @@ metedata:
       tier: backend
       environment: dev
 spec:
+  containers:
   - name: nginx
     image: nginx      
